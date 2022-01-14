@@ -2,6 +2,8 @@
 
 ## 👋 Hey fellow Developers
 
+(https://github.com/monztercoder/monztercoder/blob/main/banner.jpeg)
+
 Skills: NODE JS / REACT / JS / HTML / CSS / 
 
 
