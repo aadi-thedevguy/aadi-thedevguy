@@ -3,7 +3,7 @@
 ## 👋 Hey fellow Developers
 ## I'm Aditya, Your Friendly Neighbourhood Web Developer
 
-![banner picture](https://github.com/monztercoder/monztercoder/blob/main/Banner%20template.png?raw=true)
+<img src= 'https://github.com/monztercoder/monztercoder/blob/main/Banner%20template.png?raw=true' alt='banner' height='600' width='80%'>
 
 ### My Skills 📝:
 - **Front-End** 📺:
@@ -21,8 +21,11 @@
     - Firebase
    
 
-### *Social Handles*
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/monztercoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aadikhare1999/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aadi__khare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Aadi_khare) 
+### * My Social Handles*
+- [<img src='https://img.icons8.com/ios-filled/344/github.png' alt='github' height='40'>](https://github.com/monztercoder) 
+- [<img src='https://img.icons8.com/color/344/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aadikhare1999/) 
+-  [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/Aadi__khare) 
+-   [<img src='https://img.icons8.com/ios-filled/344/codepen.png' alt='twitter' height='40'>](https://codepen.io/Aadi_khare)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=monztercoder&show_icons=true)  
 
