@@ -22,12 +22,12 @@
 
    
 
-### * My Social Handles*
+### **My Social Handles**
  [<img src='https://img.icons8.com/ios-filled/344/github.png' alt='github' height='40'>](https://github.com/monztercoder) 
  [<img src='https://img.icons8.com/color/344/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aadikhare1999/) 
   [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/Aadi__khare)    [<img src='https://img.icons8.com/ios-filled/344/codepen.png' alt='twitter' height='40'>](https://codepen.io/Aadi_khare)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=monztercoder&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi-thedevguy&show_icons=true)  
 
 
 - 📧 Mail me at *adikhare24@gmail.com*
