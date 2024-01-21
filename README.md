@@ -1,9 +1,9 @@
 
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> fellow Developers
-## I'm Aditya, Your Friendly Neighbourhood Web Developer
+## I'm Aditya, A Tech Enthusiast and serial anime watcher
 
-<img src= 'https://github.com/monztercoder/monztercoder/blob/main/Banner%20template.gif' alt='banner' height='400'>
+<img src= 'https://github.com/aadi-thedevguy/monztercoder/blob/main/Banner%20template.gif' alt='banner' height='400'>
 
 
 ### My Skills 📝:
@@ -23,7 +23,7 @@
    
 
 ### **My Social Handles**
- [<img src='https://github.githubassets.com/favicons/favicon-dark.png' alt='github' height='40'>](https://github.com/monztercoder) 
+ [<img src='https://github.githubassets.com/favicons/favicon-dark.png' alt='github' height='40'>](https://github.com/aadi-thedevguy) 
  [<img src='https://img.icons8.com/color/344/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aadikhare1999/) 
   [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/Aadi__khare)
 
