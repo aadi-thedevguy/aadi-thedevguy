@@ -30,7 +30,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi-thedevguy&show_icons=true)  
 
 
-- 👨‍🎓 *I’m currently learning* AI and Vector Databases.
+- 👨‍🎓 *I’m currently learning* AI and Go Programming Language.
 - 👯 I’m looking to collaborate on Any open-source Projects available that I can help with. If you know or are working on one, feel free to tell me.
 -  🍴 Fork any of my projects if you find an issue you could help with.
 
