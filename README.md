@@ -20,12 +20,6 @@
     - <code><img height="20" src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-32x32.png"></code>
 
 
-   
-
-### **My Social Handles**
- [<img src='https://github.githubassets.com/favicons/favicon-dark.png' alt='github' height='40'>](https://github.com/aadi-thedevguy) 
- [<img src='https://img.icons8.com/color/344/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aadikhare1999/) 
-  [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/Aadi__khare)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi-thedevguy&show_icons=true)  
 
