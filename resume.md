@@ -24,9 +24,13 @@ _Full-Stack Developer (Contractual) | Jan 2024 - Oct 2024_
 
 - Digitised the workflow of a Dental clinic.
 **Features:** Consent E-sign on-the-fly Generated link. Appointment scheduling, e-invoice and patient record management, and real-time doctor availability tracker.
-Medicine Reminder emails/sms and push notifications for the patients,CSV imports and exports
+Medicine Reminder emails/sms and push notifications for the patients, CSV imports and exports
 
-- Dispute Management ERP solution for a banking partner. **Features:** CRM, Lead generation multi-step workflow, RBAC, Slack Alerts. **Tech Stack:** *Postgres, NodeJS, TypeScript* 
+- Dispute Management ERP solution for a banking partner. **Features:** CRM, Lead generation multi-step workflow, RBAC, Slack Alerts. **Tech Stack:** *Postgres, NodeJS, TypeScript*
+
+- Set up a custom Email newsletter for a marketing individual. Features: Email scheduling
+and Broadcasting, Blog Content Management, Free and Premium Articles. **Tech Stack:**
+*Beehive, NextJS, Firebase, Sanity.io, TypeScript*
 
 
 ### Techmonk.io - Remote
@@ -68,6 +72,14 @@ Compensation of AU employees from different Geographical locations like the Phil
 Australia.
 - **Tech Stack:** *Oracle, ABAP, SAP*
 
+### Fiverr / Upwork (Freelance)
+
+_Frontend Developer (freelance) | March 2021 - March 2022_
+
+- Created clean, smooth and beautiful static websites for marketing agencies and other
+businesses with fancy 2D and 3D animations.
+- Created headless storefronts of backend-enabled systems like Shopify or WordPress.
+- **Tech Stack:** *HTML/CSS, Javascript, ThreeJS, ReactJS, Firebase*
 
 
 ## Skills
