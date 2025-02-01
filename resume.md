@@ -84,9 +84,9 @@ businesses with fancy 2D and 3D animations.
 
 ## Skills
 
-**Languages & Tools:** *TypeScript, Python, SASS, Linux, Docker, Git*
-**Libraries & Frameworks:** *ReactJS, NextJS, NodeJS, ThreeJS, GSAP*
-**Databases and Services:** *MongoDB, PostgreSQL, Redis, AWS*
+- **Languages & Tools:** *TypeScript, Python, SASS, Linux, Docker, Git*
+- **Libraries & Frameworks:** *ReactJS, NextJS, NodeJS, ThreeJS, GSAP*
+- **Databases and Services:** *MongoDB, PostgreSQL, Redis, AWS*
 
 
 ## Education
