@@ -100,6 +100,6 @@ Bachelor of Science (Computer Application)
 ### Contact
 
 - Email: adikhare24@gmail.com
-- Website: [thedevguy](https://thedevguy.in)
+- Website: [adityakhare.com](https://adityakhare.com)
 - Twitter: [@Aadi_khare](https://twitter.com/Aadi_khare)
 - Github: [aadi-thedevguy](http://github.com/aadi-thedevguy)
