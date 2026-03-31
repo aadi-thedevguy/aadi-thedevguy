@@ -6,25 +6,9 @@
 <img src= 'https://github.com/aadi-thedevguy/monztercoder/blob/main/Banner%20template.gif' alt='banner' height='400'>
 
 
-### My Skills 📝:
-- **Front-End** 📺:
 
-    - <code><img height="20" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"></code>
-    - <code><img height="20" src="https://avatars.githubusercontent.com/u/317889?s=48&v=4"></code>
-    - <code><img height="20" src="https://www.typescriptlang.org//favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae"></code>
-    - <code><img height="20" src="https://avatars.githubusercontent.com/u/6412038?s=48&v=4"></code>
-- **Backend** 💻📚:
-    - <code><img height="20" src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4"></code>
-    - <code><img height="20" src="https://avatars.githubusercontent.com/u/177543?s=48&v=4"></code>
-    - <code><img height="20" src="https://avatars.githubusercontent.com/u/45120?s=48&v=4"></code>
-    - <code><img height="20" src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-32x32.png"></code>
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi-thedevguy&show_icons=true)  
-
-
-- 👨‍🎓 *I’m currently learning* AI and Go Programming Language.
+- 👨‍🎓 *I’m currently getting decent* in developing Agentic AI apps and Distributed memory-effecient large data ingestion
+  servers in Golang.
 - 👯 I’m looking to collaborate on Any open-source Projects available that I can help with. If you know or are working on one, feel free to tell me.
 -  🍴 Fork any of my projects if you find an issue you could help with.
 
