@@ -84,17 +84,11 @@ businesses with fancy 2D and 3D animations.
 
 ## Skills
 
-- **Languages & Tools:** *TypeScript, Python, SASS, Linux, Docker, Git*
-- **Libraries & Frameworks:** *ReactJS, NextJS, NodeJS, ThreeJS, GSAP*
-- **Databases and Services:** *MongoDB, PostgreSQL, Redis, AWS*
-
-
-## Education
-
-### Maharaja Chhatrasal Bundelkhand University
-
-_2018 - 2020_
-Bachelor of Science (Computer Application)
+- **Frontend**: *NextJS, Astro, SCSS, Tanstack, Tailwind, AnimeJS, THREEJS*
+- **Backend**: *TypeScript, NodeJS, Python, Golang, Linux, Docker, Git*
+- **Database**: *MongoDB, PostgreSQL, Redis, Pinecone*
+- **Services**: *AWS, Cloudflare, DigitalOcean, Vercel*
+- **AI Tools**: *Cursor, Codex, Gemini, n8n*
 
 
 ### Contact
