@@ -1,7 +1,7 @@
 
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> fellow Developers
-## I'm Aditya, A Tech Enthusiast and serial anime watcher
+## I'm Aditya, A full-stack dev
 
 <img src= 'https://github.com/aadi-thedevguy/monztercoder/blob/main/Banner%20template.gif' alt='banner' height='400'>
 
